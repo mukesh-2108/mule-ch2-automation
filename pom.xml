@@ -7,7 +7,7 @@
 	<groupId>39087334-8dd8-4951-a7ec-1404a328f56e</groupId>
 	<artifactId>cicd-cloudhub2-java17</artifactId>
 	<!-- This version is immutable, need to bump for every deployment-->
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
 
 	<name>cicd-cloudhub2-java17</name>
